@@ -167,13 +167,43 @@ _Teams have become significantly more aggressive on 4th downs since 2015, reflec
 - **Time series analysis**: Trend identification over 25+ years
 - **Business insight generation**: Converting data into actionable recommendations
 
+## Data Sources
+
+### Primary Dataset
+
+This analysis uses NFL play-by-play data from the [nflverse-data repository](https://github.com/nflverse/nflverse-data/releases/tag/pbp), which provides comprehensive play-by-play data for all NFL games from 1999-2024.
+
+**Access Method:**
+
+```r
+# Using nflreadr package (recommended)
+library(nflreadr)
+pbp_data <- load_pbp(1999:2024)
+```
+
+**Alternative Access:**
+
+- Direct download from [nflverse-data releases](https://github.com/nflverse/nflverse-data/releases/tag/pbp)
+- Files: `play_by_play_YYYY.parquet` for years 1999-2024
+
+**Dataset Details:**
+
+- **Source**: nflverse community (open source NFL data initiative)
+- **Coverage**: 108,866+ 4th down situations across 26 seasons
+- **Format**: Parquet files with comprehensive play-by-play data
+- **Update Frequency**: Regular updates during NFL season
+- **License**: Open source, freely available for analysis
+
+### Data Attribution
+
+This project follows data science best practices by:
+
+- Citing the original data source
+- Providing clear access instructions
+- Acknowledging the nflverse community's contribution to NFL analytics
+- Using reproducible data access methods
+
 ## Technical Implementation
-
-### Data Sources
-
-- NFL play-by-play data from 1999-2024
-- 108,866+ 4th down situations analyzed
-- Comprehensive field position and game situation data
 
 ### Analysis Techniques
 
