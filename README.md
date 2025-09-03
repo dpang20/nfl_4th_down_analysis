@@ -2,7 +2,7 @@
 
 ## Executive Summary
 
-There are few moments in football more tense — and more fun — than a 4th down. The stadium holds its breath, the coach makes a call, and the outcome can flip a game in seconds. In this project, I dug into **108,866 NFL 4th down **situations from 1999–2024 to see how strategy has shifted over the years, especially as the analytics movement has pushed teams to take more risks.
+There are few moments in football more tense than a 4th down attempt. Once seen as the universal sign of a desperate football team, the 4th down attempt is now one of the clearest signals of how much the game has changed. In this project, I dug into **108,866 NFL 4th down situations** from 1999–2024 to see how strategy has shifted over the years, especially as the analytics movement has pushed teams to take more risks.
 
 What started as a raw data dive turned into a storytelling project: 19 interactive visualizations that track when teams punt, kick, or go for it — and how those choices play out by distance, field position, game situation, and era. The goal wasn’t just to crunch numbers, but to uncover the “why” behind coaching decisions, and highlight where modern football is still conservative compared to the math.
 
