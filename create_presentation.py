@@ -129,13 +129,27 @@ def create_presentation_summary():
                 
                 <h3>Strategic Analysis</h3>
                 <a href="charts/run_vs_pass_success.html" target="_blank" class="chart-link">Run vs Pass</a>
+                <a href="charts/run_vs_pass_by_distance.html" target="_blank" class="chart-link">Run vs Pass by Distance</a>
                 <a href="charts/time_aggression.html" target="_blank" class="chart-link">Time Patterns</a>
                 <a href="charts/field_position_aggression.html" target="_blank" class="chart-link">Field Position</a>
+                <a href="charts/field_position_success.html" target="_blank" class="chart-link">Field Position Success</a>
                 
                 <h3>Advanced Heatmaps</h3>
                 <a href="charts/field_distance_heatmap.html" target="_blank" class="chart-link">Field vs Distance</a>
+                <a href="charts/field_distance_success_heatmap.html" target="_blank" class="chart-link">Field vs Distance Success</a>
                 <a href="charts/time_field_heatmap.html" target="_blank" class="chart-link">Time vs Field</a>
                 <a href="charts/yearly_field_heatmap.html" target="_blank" class="chart-link">Yearly Evolution</a>
+                
+                <h3>Trend Analysis</h3>
+                <a href="charts/yearly_success_trends.html" target="_blank" class="chart-link">Success Trends</a>
+                <a href="charts/yearly_strategy_trends.html" target="_blank" class="chart-link">Strategy Trends</a>
+                <a href="charts/yearly_time_trends.html" target="_blank" class="chart-link">Time Trends</a>
+                <a href="charts/yearly_field_position_trends.html" target="_blank" class="chart-link">Field Position Trends</a>
+                
+                <h3>QB Sneak Analysis</h3>
+                <a href="charts/qb_sneak_usage_trends.html" target="_blank" class="chart-link">QB Sneak Usage</a>
+                <a href="charts/qb_sneak_success_trends.html" target="_blank" class="chart-link">QB Sneak Success</a>
+                <a href="charts/qb_sneak_success_by_distance.html" target="_blank" class="chart-link">QB Sneak by Distance</a>
             </div>
 
             <div class="slide">

@@ -125,11 +125,14 @@ def create_executive_dashboard():
             
             <h3>Strategic Analysis</h3>
             <p>• <a href="charts/run_vs_pass_success.html" target="_blank">Run vs Pass Strategy Comparison</a></p>
+            <p>• <a href="charts/run_vs_pass_by_distance.html" target="_blank">Run vs Pass by Distance Analysis</a></p>
             <p>• <a href="charts/time_aggression.html" target="_blank">Time-Based Aggression Patterns</a></p>
             <p>• <a href="charts/field_position_aggression.html" target="_blank">Field Position Decision Making</a></p>
+            <p>• <a href="charts/field_position_success.html" target="_blank">Field Position Success Analysis</a></p>
             
             <h3>Advanced Heatmaps</h3>
             <p>• <a href="charts/field_distance_heatmap.html" target="_blank">Field Position vs Distance Heatmap</a></p>
+            <p>• <a href="charts/field_distance_success_heatmap.html" target="_blank">Field Position vs Distance Success Heatmap</a></p>
             <p>• <a href="charts/time_field_heatmap.html" target="_blank">Time vs Field Position Heatmap</a></p>
             <p>• <a href="charts/yearly_field_heatmap.html" target="_blank">Yearly Field Position Evolution</a></p>
             
@@ -137,6 +140,12 @@ def create_executive_dashboard():
             <p>• <a href="charts/yearly_success_trends.html" target="_blank">Success Rate Trends by Year</a></p>
             <p>• <a href="charts/yearly_strategy_trends.html" target="_blank">Strategy Evolution Trends</a></p>
             <p>• <a href="charts/yearly_time_trends.html" target="_blank">Time-Based Strategy Trends</a></p>
+            <p>• <a href="charts/yearly_field_position_trends.html" target="_blank">Yearly Field Position Trends</a></p>
+            
+            <h3>QB Sneak Analysis</h3>
+            <p>• <a href="charts/qb_sneak_usage_trends.html" target="_blank">QB Sneak Usage Trends</a></p>
+            <p>• <a href="charts/qb_sneak_success_trends.html" target="_blank">QB Sneak Success Rate Trends</a></p>
+            <p>• <a href="charts/qb_sneak_success_by_distance.html" target="_blank">QB Sneak Success by Distance</a></p>
         </div>
 
         <div class="section">
